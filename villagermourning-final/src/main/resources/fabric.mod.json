@@ -1,0 +1,26 @@
+{
+	"schemaVersion": 1,
+	"id": "villagermourning",
+	"version": "${version}",
+	"name": "Villager Mourning",
+	"description": "Wenn ein Iron Golem in der Nähe von Villagern stirbt, entsteht ein Grabstein und die Villager laufen dorthin und trauern mit einem Sound.",
+	"authors": [
+		"Du"
+	],
+	"contact": {},
+	"license": "CC0-1.0",
+	"icon": "assets/villagermourning/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.villagermourning.VillagerMourningMod"
+		]
+	},
+	"mixins": [],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

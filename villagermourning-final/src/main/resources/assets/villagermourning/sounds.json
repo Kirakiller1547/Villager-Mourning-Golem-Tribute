@@ -1,0 +1,12 @@
+{
+  "mourning_song": {
+    "category": "neutral",
+    "subtitle": "subtitles.villagermourning.mourning_song",
+    "sounds": [
+      {
+        "name": "villagermourning:mourning_song",
+        "stream": true
+      }
+    ]
+  }
+}
