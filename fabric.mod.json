@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "villagermourning",
+  "version": "1.0.0",
+  "name": "Villager Mourning",
+  "description": "Villagers mourn fallen Iron Golems with gravestones and tribute music.",
+  "icon": "assets/villagermourning/icon.png",
+  "environment": "*",
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.4",
+    "java": ">=21",
+    "fabric-api": "0.119.4+1.21.4"
+  }
+}
