@@ -1,5 +1,10 @@
 # 🪦 Villager Mourning & Golem Tribute 🗿
 
+
+<img width="1024" height="559" alt="00dde03b-dde4-4c6d-b5ef-adf14f22af6c" src="https://github.com/user-attachments/assets/8774540d-351b-4f47-80f7-920f734e2e8c" />
+
+
+
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.4-brightgreen)
 ![Loader](https://img.shields.io/badge/Loader-Fabric-blue)
 ![API](https://img.shields.io/badge/Fabric--API-0.119.4%2B1.21.4-orange)
@@ -12,8 +17,6 @@ When an Iron Golem dies, neighboring Villagers will walk over to pay their respe
 ---
 
 ## 📸 Overview & Features
-
-![Mourning Villager and Fallen Iron Golem](assets/villagermourning/preview.jpg)
 
 * **🪦 Gravestone Spawning:** Automatically places a custom gravestone block at the Iron Golem's death location.
 * **🚶 Villager Pathfinding:** Nearby villagers move towards the gravestone to mourn.
