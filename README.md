@@ -13,6 +13,8 @@ When an Iron Golem dies, neighboring Villagers will walk over to pay their respe
 
 ## 📸 Overview & Features
 
+![Mourning Villager and Fallen Iron Golem](assets/villagermourning/preview.jpg)
+
 * **🪦 Gravestone Spawning:** Automatically places a custom gravestone block at the Iron Golem's death location.
 * **🚶 Villager Pathfinding:** Nearby villagers move towards the gravestone to mourn.
 * **🎵 Custom Tribute Sound:** Plays a mourning song (*Kamin von Emin und Jony*) when the Iron Golem perishes.
